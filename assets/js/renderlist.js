@@ -12,10 +12,12 @@ function renderList() {
               listItem.classList.add("griditem")
               listItem.href = item.url
               listItem.innerHTML = `
-              <div class="col zoom-effect">
-                  <img src="${item.img}" class="img-fluid grid-img rounded-4 img-hover-shadow" alt="Image">
-                  <p class="text-center listing-text">${item.name}</p>
-              </div>
+              <div class="card_margin">
+                <div class="col zoom-effect">
+                    <img src="${item.img}" class="img-fluid grid-img rounded-4 img-hover-shadow" alt="Image">
+                    <p class="text-center listing-text">${item.name}</p>
+                </div>
+            </div>
               `;
               container.appendChild(listItem);
           });

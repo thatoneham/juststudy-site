@@ -30,7 +30,7 @@
         height: auto;
     }
     .page-title {
-        font-size: 4em;
+        font-size: 4vw;
         color: #d0ced2;
         text-align: center;
     }
@@ -50,6 +50,31 @@
     .page-desc {
         text-align: center;
         color: #d0ced2
+    }
+    .mainbox {
+        transform: translateX(0vh);
+        transition-duration: 0.4s;
+        -webkit-transition-duration: 0.4s;
+        -ms-transition-duration: 0.4s;
+        -moz-transition-duration: 0.4s;
+        z-index: 1;
+        width: 75%;
+        height: 85vh;
+        backdrop-filter: blur(5px) saturate(180%);
+        -webkit-backdrop-filter: blur(5px) saturate(180%);
+        background-color: rgba(255, 255, 255, 0.2);
+        outline: 0.3vh solid white;
+        margin-top: 1vh;
+        margin-bottom: 1vh;
+        border-radius: 0.4em;
+        box-shadow: 0px 10px 10px;
+        overflow-y: scroll;
+        scrollbar-width: none;
+        scroll-behavior: smooth;
+    }
+    .mainbox-top-margin{
+        margin-top: 2vh;;
+        opacity: 0;
     }
     .zoom-effect {
         transition: transform 0.3s;
@@ -129,56 +154,57 @@
         margin-bottom: 10px;
     }    
     .icon-bar {
-     width: 90px;
+     width: 5vw;
      background-color: #9454c4;
-     border-radius: 20px;
+     border-radius: 5vw;
      border-color: coral;
      position: fixed;
-     left: -80px;
+     top: 50%;
+     left: -2%;
+     transform: translate(50%, -50%);
      transition: all 0.3s ease;
      z-index: 3;
-     opacity: 0.3;
     }
     .box {
     display: none;
     text-align: center;
     background-color: #9454c4;
-    border-radius: 15px
-    }
-    .icon-bar:hover {
-     left: 0;
-     opacity: 1;
+    border-radius: 2vw;
+    overflow: hidden;
     }
 
     .icon-bar a {
+      overflow: hidden;
       display: block;
       text-align: center;
       transition: all 0.3s ease;
-      padding: 6px;   
+      padding: 1vh;   
       color: white;
-      font-size: 45px;
-      border-radius: 20px;
-      border: 10px;
+      font-size: 2.5vh;
+      border-radius: 1vw;
+      border: 1vh;
       padding-right: 5px; 
       position: relative;
-      opacity: 0.4;
       z-index: 3;
     }
-
+    i.fa{
+        width: 2.5vw;
+        height: 2.5vw;
+    }
     .icon-bar a:hover {
      background-color: rgb(148, 84, 196);
      transition: width 0.6s ease-out-in; 
-     padding: 12px 12px;
-     padding-right: 170px; 
-     opacity: 1;   
+     padding: 1vw 1vw;
+     padding-right: 8.5vw; 
     }
     
     .icon-bar a span {
       display: none;
       position: absolute;
-      top: 53%;
-      left: 65%;
-      transform: translate(-50%, -50%);
+      top: 53.25vh;
+      left: 53.5vw;
+      font-size: 2.5vh;
+      transform: translate(-50vw, -50vh);
     }
 
     .icon-bar a:hover span {
@@ -201,25 +227,25 @@
     }    
 
     .icon-bar a:hover .search-bar {
-    width: 150px;
+    width: 8vw;
     padding-right: 20px;
     opacity: 1;
     }
 
     .search-bar {
      position: absolute;
-     top: 50%;
-     right: -12%;
-     transform: translateY(-50%);
-     width: 80px;
-     height: 40px;
+     top: 50vh;
+     right: -2vw;
+     transform: translateY(-50vh);
+     width: 5vw;
+     height: 10vh;
      padding: 0 10px;
      border: none;
      border-radius: 20px;
       outline: none;
      background-color: transparent;
      color: white;
-     font-size: 16px;
+     font-size: 1vw;
      transition: width 0.3s ease-out, padding-right 0.3s ease-out, opacity 0.3s ease-out;
       opacity: 0;
     }      
@@ -340,11 +366,6 @@
     .news-info::-webkit-scrollbar {
         display: none;
     }
-    .card {
-        border: none;
-        min-width : 100%;
-        min-height:  100%;
-    }
     .News-media{
     z-index: 998;
     border-radius: 15px;
@@ -436,6 +457,90 @@
        font-size: 1vw;
        text-align: center;
     }
+    .gamecard {
+        font-size: 3vh;
+        z-index: 1;
+        width: 90%;
+        max-width: 300px;
+        height: auto;
+        aspect-ratio: 1;
+        overflow: hidden;
+        backdrop-filter: blur(16px) saturate(180%);
+        -webkit-backdrop-filter: blur(16px) saturate(180%);
+        background-color: rgba(0, 0, 0, 0.5);
+        outline: 2px solid white;
+        margin-top: 1%;
+        margin-bottom: 1%;
+        border-radius: 0.2em;
+        transition-duration: 0.5s;
+        -webkit-transition-duration: 0.3s;
+        -ms-transition-duration: 0.3s;
+        -moz-transition-duration: 0.3s;
+    }
+
+    @media (max-width: 768px) {
+        .gamecard {
+            width: 100%;
+            max-width: none;
+        }
+    }
+
+    .gamecard:hover {
+        transform: translate(0em, -0.5em);
+        box-shadow: 0 0 20px #ffffff;
+        transition-duration: 0.3s;
+        -webkit-transition-duration: 0.3s;
+        -ms-transition-duration: 0.3s;
+        -moz-transition-duration: 0.3s;
+        background-color: rgba(43, 43, 43, 0.8);
+    }
+
+    .gamecard:active {
+        transform: translate(0em, 0.05em);
+        box-shadow: 0em 0.10em;
+        transition-duration: 0.1s;
+        -webkit-transition-duration: 0.1s;
+        -ms-transition-duration: 0.1s;
+        -moz-transition-duration: 0.1s;
+        background-color: rgba(197, 197, 197, 0.8);
+    }
+
+    .gamecard .inner_card {
+        transform: translate(0em, 0vh);
+        transition-duration: 0.1s;
+        -webkit-transition-duration: 0.1s;
+        -ms-transition-duration: 0.1s;
+        -moz-transition-duration: 0.1s;
+    }
+
+    .inner_card {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        text-align: center;
+    }
+
+    .gamecard:hover .inner_card {
+        transform: translate(0em, -25vh);
+        transition-duration: 0.1s;
+        -webkit-transition-duration: 0.1s;
+        -ms-transition-duration: 0.1s;
+        -moz-transition-duration: 0.1s;
+    }
+
+    .gamecardtext {
+        text-decoration: none !important;
+        position: relative;
+        color: #ffffff;
+        margin-top: 10vh;
+        font-size: 1.9vw;
+        line-height: 1.5;
+        white-space: normal;
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+    }
+
   </style>
 
   </head>
@@ -450,8 +555,8 @@
           <i class="fa fa-search"></i>
           <input type="text" class="search-bar" id ="search-bar" placeholder="Search">
         </a>
-        <a class="active" onclick="toggleNews()" id="CardBT"> <i class="fa fa-newspaper-o"></i><span style="font-size: 24px;">News</span></a>
-        <a class="active" onclick="FeelingLucky()" id="CardBT"> <i class="fa fa-random"></i><span style="font-size: 24px;">Random</span></a>
+        <a class="active" onclick="toggleNews()" id="CardBT"> <i class="fa fa-newspaper-o"></i><span>News</span></a>
+        <a class="active" onclick="FeelingLucky()" id="CardBT"> <i class="fa fa-random"></i><span>Random</span></a>
       </div>
     </div>
     <script>
@@ -627,7 +732,6 @@
     
     <div class="gradient" id="gradient"></div>
     <h1 class="page-title glow" style="font-size: 80px; text-align: center; color: #0084ff;">JustStudy </h1> <!-- <center> <div class="devbox"> <h6>this aint the main site, only dev.<a href="https://metalfoxdev.codeberg.page/juststudy-site/"> Click here to go to the main one</h6> </div> </center> -->
-    <h3 class="page-desc" id="desc" class="desc" style="overflow-x:hidden; z-index: 1;">sam taylor wont take us down. this is all legal idiot</h3>
     <script>
     function FeelingLucky() {
       fetch('assets/data/index.json')
@@ -840,11 +944,16 @@
         <img src="assets/img/loader.gif" alt="Loader">
         <p class="loader-text">Loading...</p>
     </div>
-    
-    <div class="container">
-        <div class="row row-cols-3" id="itembox">
+    <center>
+    <div class="mainbox" id="main-panel">
+        <div class="mainbox-top-margin">
+        </div>
+        <div class="container">
+            <div class="row row-cols-3" id="itembox">
+            </div>
         </div>
     </div>
+    </center>
     
     <script src="assets/js/renderlist.js" defer></script>
 

@@ -2,691 +2,877 @@
     {
         "name": "0hh1",
         "img": "assets/icons/1.png",
-        "url": "studyguide/0hh1/index.html"
+        "url": "studyguide/0hh1/index.html",
+        "desc": "Solve relaxing logic puzzles in a grid-based challenge."
     },
     {
         "name": "1v1 LoL",
         "img": "assets/icons/2.png",
-        "url": "studyguide/1vl/index.html"
+        "url": "studyguide/1vl/index.html",
+        "desc": "Battle your friends in this intense multiplayer shooter."
     },
     {
         "name": "2048",
         "img": "assets/icons/3.png",
-        "url": "studyguide/2048/index.html"
+        "url": "studyguide/2048/index.html",
+        "desc": "Merge tiles to reach the ultimate 2048 score!"
     },
     {
         "name": "2048 Cupcakes",
         "img": "assets/icons/4.png",
-        "url": "studyguide/2048c/index.html"
+        "url": "studyguide/2048c/index.html",
+        "desc": "A sweet twist on the classic 2048 puzzle game."
     },
     {
         "name": "A Dance of Fire and Ice",
         "img": "assets/icons/55.jpg",
-        "url": "studyguide/adofai/index.html"
+        "url": "studyguide/adofai/index.html",
+        "desc": "Test your rhythm in this one-button music challenge."
     },
     {
         "name": "Backfire",
         "img": "assets/icons/5.png",
-        "url": "studyguide/backfire/index.html"
+        "url": "studyguide/backfire/index.html",
+        "desc": "Dodge and shoot in this reverse bullet-hell game."
     },
     {
         "name": "Basketball Bros",
         "img": "assets/icons/62.jpg",
-        "url": "studyguide/b-b/index.html"
+        "url": "studyguide/b-b/index.html",
+        "desc": "Play fast-paced hoops with quirky characters."
     },
     {
         "name": "Basketball Stars",
         "img": "assets/icons/43.png",
-        "url": "studyguide/b-stars/index.html"
+        "url": "studyguide/b-stars/index.html",
+        "desc": "Shoot and dunk your way to victory!"
     },
     {
         "name": "Bloons TD",
         "img": "assets/icons/39.png",
-        "url": "studyguide/btd1/index.html"
+        "url": "studyguide/btd1/index.html",
+        "desc": "Defend towers by popping balloons in strategic gameplay."
     },
     {
         "name": "Bloons TD 2",
         "img": "assets/icons/40.png",
-        "url": "studyguide/btd2/index.html"
+        "url": "studyguide/btd2/index.html",
+        "desc": "The balloon-popping tower defense returns!"
     },
     {
         "name": "Bloons TD 3",
         "img": "assets/icons/41.png",
-        "url": "studyguide/btd3/index.html"
+        "url": "studyguide/btd3/index.html",
+        "desc": "Battle endless waves of bloons with upgraded towers."
     },
     {
         "name": "Calculator",
         "img": "assets/icons/68.jpg",
-        "url": "studyguide/calc/index.html"
+        "url": "studyguide/calc/index.html",
+        "desc": "A functional, interactive calculator for everyday use."
     },
     {
         "name": "Chrome Dino",
         "img": "assets/icons/6.png",
-        "url": "studyguide/cdino/index.html"
+        "url": "studyguide/cdino/index.html",
+        "desc": "Jump and duck to survive as the pixel dinosaur!"
     },
     {
         "name": "Cookie Clicker",
         "img": "assets/icons/42.png",
-        "url": "studyguide/cc/index.html"
+        "url": "studyguide/cc/index.html",
+        "desc": "Build your cookie empire with addictive clicking."
     },
     {
         "name": "Crossy Road",
         "img": "assets/icons/7.png",
-        "url": "studyguide/cr/index.html"
+        "url": "studyguide/cr/index.html",
+        "desc": "Help animals cross busy roads in endless fun!"
     },
     {
         "name": "Cut the Rope",
         "img": "assets/icons/8.png",
-        "url": "studyguide/ctr/index.html"
+        "url": "studyguide/ctr/index.html",
+        "desc": "Solve puzzles to feed candy to Om Nom."
     },
     {
         "name": "Cut the Rope: Time Travel",
         "img": "assets/icons/9.png",
-        "url": "studyguide/ctrtimetravel/index.html"
+        "url": "studyguide/ctrtimetravel/index.html",
+        "desc": "Join Om Nom in time-traveling candy adventures."
     },
     {
         "name": "Dadish",
         "img": "assets/icons/76.png",
-        "url": "studyguide/d-d/index.html"
+        "url": "studyguide/d-d/index.html",
+        "desc": "Guide a radish dad to save his lost kids."
     },
     {
         "name": "Dante",
         "img": "assets/icons/10.png",
-        "url": "studyguide/dante/index.html"
+        "url": "studyguide/dante/index.html",
+        "desc": "Dive into an action-packed journey with this platformer."
     },
     {
         "name": "Dogeminer",
         "img": "assets/icons/64.png",
-        "url": "studyguide/d-mi/index.html"
+        "url": "studyguide/d-mi/index.html",
+        "desc": "Mine Dogecoins and upgrade your mining empire!"
     },
     {
         "name": "Doodle Cricket",
         "img": "assets/icons/11.png",
-        "url": "studyguide/dcricket/index.html"
+        "url": "studyguide/dcricket/index.html",
+        "desc": "Play cricket with adorable doodle characters."
     },
     {
         "name": "Dreadhead Parkour",
         "img": "assets/icons/63.png",
-        "url": "studyguide/dh-p/index.html"
+        "url": "studyguide/dh-p/index.html",
+        "desc": "Master parkour moves in a fast-paced urban setting."
     },
     {
         "name": "Drive Mad",
         "img": "assets/icons/60.png",
-        "url": "studyguide/d-m/index.html"
+        "url": "studyguide/d-m/index.html",
+        "desc": "Drive wild courses with thrilling stunts and challenges."
     },
     {
         "name": "Duck Life",
         "img": "assets/icons/44.png",
-        "url": "studyguide/dl-1/index.html"
+        "url": "studyguide/dl-1/index.html",
+        "desc": "Train ducks and win exciting races!"
     },
     {
         "name": "Duck Life 2",
         "img": "assets/icons/45.png",
-        "url": "studyguide/dl-2/index.html"
+        "url": "studyguide/dl-2/index.html",
+        "desc": "Continue your duck training journey for greater glory."
     },
     {
         "name": "Duck Life 3",
         "img": "assets/icons/46.png",
-        "url": "studyguide/dl-3/index.html"
+        "url": "studyguide/dl-3/index.html",
+        "desc": "Evolve your ducks for ultimate racing action."
     },
     {
         "name": "Duck Life 4",
         "img": "assets/icons/47.png",
-        "url": "studyguide/dl-4/index.html"
+        "url": "studyguide/dl-4/index.html",
+        "desc": "The duck training and racing saga continues!"
     },
     {
         "name": "Elastic Face",
         "img": "assets/icons/65.png",
-        "url": "studyguide/e-f/index.html"
+        "url": "studyguide/e-f/index.html",
+        "desc": "Stretch and squish faces for endless fun."
     },
     {
         "name": "FNAF Classic",
         "img": "assets/icons/66.jpg",
-        "url": "studyguide/fn-af/index.html"
+        "url": "studyguide/fn-af/index.html",
+        "desc": "Survive the night in this chilling animatronic horror."
     },
     {
         "name": "Frogger",
         "img": "assets/icons/12.png",
-        "url": "studyguide/frog/index.html"
+        "url": "studyguide/frog/index.html",
+        "desc": "Guide your frog safely across busy roads and rivers."
     },
     {
         "name": "Geometry Dash",
         "img": "assets/icons/67.png",
-        "url": "studyguide/gd/index.html"
+        "url": "studyguide/gd/index.html",
+        "desc": "Jump and dash through challenging rhythm-based levels."
     },
     {
         "name": "Geometry Dash Remastered",
         "img": "assets/icons/56.png",
-        "url": "studyguide/gdr/index.html"
+        "url": "studyguide/gdr/index.html",
+        "desc": "An upgraded version of the iconic rhythm platformer."
     },
     {
         "name": "Getaway Shootout",
         "img": "assets/icons/13.png",
-        "url": "studyguide/ga-s/index.html"
+        "url": "studyguide/ga-s/index.html",
+        "desc": "Race and shoot your way to freedom!"
     },
     {
         "name": "Hacker Typer",
         "img": "assets/icons/49.jpg",
-        "url": "studyguide/ht/index.html"
+        "url": "studyguide/ht/index.html",
+        "desc": "Feel like a hacker by typing random code!"
     },
     {
         "name": "Hill Climb Racing 2",
         "img": "assets/icons/14.png",
-        "url": "studyguide/hcr2/index.html"
+        "url": "studyguide/hcr2/index.html",
+        "desc": "Conquer hills with crazy vehicles and upgrades."
     },
     {
         "name": "Hextris",
         "img": "assets/icons/15.png",
-        "url": "studyguide/hextris/index.html"
+        "url": "studyguide/hextris/index.html",
+        "desc": "Spin and stack hexagons for high scores."
     },
     {
         "name": "HexGL",
         "img": "assets/icons/16.png",
-        "url": "studyguide/hgl/index.html"
+        "url": "studyguide/hgl/index.html",
+        "desc": "Race through futuristic tracks at lightning speed."
     },
     {
         "name": "Iron Dash",
         "img": "assets/icons/17.png",
-        "url": "studyguide/i-dash/index.html"
+        "url": "studyguide/i-dash/index.html",
+        "desc": "Fast-paced combat in a world of iron and fire."
     },
     {
         "name": "Jetpack Joyride",
         "img": "assets/icons/18.png",
-        "url": "studyguide/j-j/index.html"
+        "url": "studyguide/j-j/index.html",
+        "desc": "Fly with a jetpack, dodge obstacles, and collect coins."
     },
     {
         "name": "Jelly Jump",
         "img": "assets/icons/19.png",
-        "url": "studyguide/jelly-j/index.html"
+        "url": "studyguide/jelly-j/index.html",
+        "desc": "Jump higher and survive in this sticky adventure."
     },
     {
         "name": "Line Rider",
         "img": "assets/icons/58.png",
-        "url": "studyguide/l-r/index.html"
+        "url": "studyguide/l-r/index.html",
+        "desc": "Draw and ride tracks in this creative physics-based game."
     },
     {
         "name": "Little Alchemy 2",
         "img": "assets/icons/77.jpg",
-        "url": "studyguide/la2/index.html"
+        "url": "studyguide/la2/index.html",
+        "desc": "Combine elements to discover new creations!"
     },
     {
         "name": "Madalin Stunt Cars 2",
         "img": "assets/icons/25.png",
-        "url": "studyguide/msc2/index.html"
+        "url": "studyguide/msc2/index.html",
+        "desc": "Perform epic stunts in high-speed supercars."
     },
     {
         "name": "Moto X3M",
         "img": "assets/icons/20.png",
-        "url": "studyguide/mx3m/index.html"
+        "url": "studyguide/mx3m/index.html",
+        "desc": "Race through daring tracks filled with stunts."
     },
     {
         "name": "Moto X3M Winter",
         "img": "assets/icons/52.png",
-        "url": "studyguide/mx3m-w/index.html"
+        "url": "studyguide/mx3m-w/index.html",
+        "desc": "Experience thrilling motorbike stunts in a snowy wonderland."
     },
     {
         "name": "MS Edge Surf",
         "img": "assets/icons/21.png",
-        "url": "studyguide/ms-edgesurf/index.html"
+        "url": "studyguide/ms-edgesurf/index.html",
+        "desc": "Ride waves and dodge obstacles in this endless runner."
     },
     {
         "name": "MS Minesweeper",
         "img": "assets/icons/22.png",
-        "url": "studyguide/ms-minesweeper/index.html"
+        "url": "studyguide/ms-minesweeper/index.html",
+        "desc": "Classic logic-based puzzle game with mines to avoid."
     },
     {
         "name": "MS Solitaire",
         "img": "assets/icons/23.png",
-        "url": "studyguide/ms-solitaire/index.html"
+        "url": "studyguide/ms-solitaire/index.html",
+        "desc": "The timeless card game, now digital and more engaging."
     },
     {
         "name": "MS Sudoku",
         "img": "assets/icons/24.png",
-        "url": "studyguide/ms-sudoku/index.html"
+        "url": "studyguide/ms-sudoku/index.html",
+        "desc": "Test your logic skills with this classic number puzzle."
     },
     {
         "name": "Papa's Pizzeria",
         "img": "assets/icons/69.jpg",
-        "url": "studyguide/p-p/index.html"
+        "url": "studyguide/p-p/index.html",
+        "desc": "Serve up delicious pizzas to satisfy hungry customers."
     },
     {
         "name": "Paper.io 2",
         "img": "assets/icons/48.png",
-        "url": "studyguide/pio2/index.html"
+        "url": "studyguide/pio2/index.html",
+        "desc": "Expand your territory in this fun multiplayer game."
     },
     {
         "name": "Quake",
         "img": "assets/icons/59.jpg",
-        "url": "studyguide/quake/index.html"
+        "url": "studyguide/quake/index.html",
+        "desc": "Classic first-person shooter with intense combat action."
     },
     {
         "name": "Raft Wars",
         "img": "assets/icons/70.png",
-        "url": "studyguide/r-w/index.html"
+        "url": "studyguide/r-w/index.html",
+        "desc": "Defend your treasure from pirates with hilarious battles."
     },
     {
         "name": "Retro Bowl",
         "img": "assets/icons/36.jpg",
-        "url": "studyguide/r-b/index.html"
+        "url": "studyguide/r-b/index.html",
+        "desc": "Lead your team to victory in this retro football game."
     },
     {
         "name": "Rooftop Snipers",
         "img": "assets/icons/53.png",
-        "url": "studyguide/r-s/index.html"
+        "url": "studyguide/r-s/index.html",
+        "desc": "Take down opponents in rooftop duels."
     },
     {
         "name": "Run 3",
         "img": "assets/icons/26.png",
-        "url": "studyguide/r3/index.html"
+        "url": "studyguide/r3/index.html",
+        "desc": "Run and jump through challenging space tunnels."
     },
     {
         "name": "Sky City Riders",
         "img": "assets/icons/61.png",
-        "url": "studyguide/scr/index.html"
+        "url": "studyguide/scr/index.html",
+        "desc": "Race bikes through a futuristic floating city."
     },
     {
         "name": "Slope",
         "img": "assets/icons/29.png",
-        "url": "studyguide/sl/index.html"
+        "url": "studyguide/sl/index.html",
+        "desc": "Navigate a rolling ball through a neon 3D slope."
     },
     {
         "name": "Snake",
         "img": "assets/icons/51.jpg",
-        "url": "studyguide/snake/index.html"
+        "url": "studyguide/snake/index.html",
+        "desc": "Classic arcade game where you grow your snake."
     },
     {
         "name": "Space Invaders",
         "img": "assets/icons/28.png",
-        "url": "studyguide/si/index.html"
+        "url": "studyguide/si/index.html",
+        "desc": "Defend Earth from alien invaders in this arcade classic."
     },
     {
         "name": "Stack",
         "img": "assets/icons/33.png",
-        "url": "studyguide/stack/index.html"
+        "url": "studyguide/stack/index.html",
+        "desc": "Build the tallest tower by stacking perfectly aligned blocks."
     },
     {
         "name": "Stickman Hook",
         "img": "assets/icons/35.jpg",
-        "url": "studyguide/smhook/index.html"
+        "url": "studyguide/smhook/index.html",
+        "desc": "Swing through levels with gravity-defying stickman tricks."
     },
     {
         "name": "Subway Surfers",
         "img": "assets/icons/34.jpg",
-        "url": "studyguide/s-surf/index.html"
+        "url": "studyguide/s-surf/index.html",
+        "desc": "Dash, dodge, and collect coins in this endless runner."
     },
     {
         "name": "Subway Surfers - World Tour: Tokyo",
         "img": "assets/icons/38.png",
-        "url": "studyguide/ss-tokyo/index.html"
+        "url": "studyguide/ss-tokyo/index.html",
+        "desc": "Explore Tokyo in the iconic Subway Surfers series."
     },
     {
         "name": "Supercold",
         "img": "assets/icons/27.png",
-        "url": "studyguide/sc/index.html"
+        "url": "studyguide/sc/index.html",
+        "desc": "Manipulate time and defeat enemies in this unique shooter."
     },
     {
         "name": "Super Mario 63",
         "img": "assets/icons/57.png",
-        "url": "studyguide/s63/index.html"
+        "url": "studyguide/s63/index.html",
+        "desc": "Fan-made Mario game with exciting new challenges."
     },
     {
         "name": "Super Mario 64",
         "img": "assets/icons/37.jpg",
-        "url": "studyguide/s64/index.html"
+        "url": "studyguide/s64/index.html",
+        "desc": "Revisit the iconic 3D platformer that changed gaming forever."
     },
     {
         "name": "Tanuki Sunset",
         "img": "assets/icons/31.png",
-        "url": "studyguide/ts/index.html"
+        "url": "studyguide/ts/index.html",
+        "desc": "Skateboard as a raccoon in this chill, retro-style game."
     },
     {
         "name": "Temple Run 2",
         "img": "assets/icons/30.png",
-        "url": "studyguide/tempr2/index.html"
+        "url": "studyguide/tempr2/index.html",
+        "desc": "Escape danger in this fast-paced endless runner."
     },
     {
         "name": "Tube Jumpers",
         "img": "assets/icons/54.png",
-        "url": "studyguide/t-j/index.html"
+        "url": "studyguide/t-j/index.html",
+        "desc": "Battle friends in a wacky, physics-based jumping game."
     },
     {
         "name": "Tunnel Rush",
         "img": "assets/icons/32.png",
-        "url": "studyguide/tunru/index.html"
+        "url": "studyguide/tunru/index.html",
+        "desc": "Dodge obstacles in a fast-paced 3D tunnel."
     },
     {
         "name": "World's Hardest Game",
         "img": "assets/icons/78.png",
-        "url": "studyguide/whg/index.html"
+        "url": "studyguide/whg/index.html",
+        "desc": "Can you beat this infamously tough puzzle game?"
     },
     {
         "name": "Vex 3",
         "img": "assets/icons/71.jpg",
-        "url": "studyguide/v3/index.html"
+        "url": "studyguide/v3/index.html",
+        "desc": "Run, jump, and dodge traps in challenging platform levels."
     },
     {
         "name": "Vex 4",
         "img": "assets/icons/72.png",
-        "url": "studyguide/v4/index.html"
+        "url": "studyguide/v4/index.html",
+        "desc": "More intense challenges in the Vex platformer series."
     },
     {
         "name": "Vex 5",
         "img": "assets/icons/73.jpg",
-        "url": "studyguide/v5/index.html"
+        "url": "studyguide/v5/index.html",
+        "desc": "Conquer tougher levels with new obstacles and tricks."
     },
     {
         "name": "Vex 6",
         "img": "assets/icons/74.jpg",
-        "url": "studyguide/v6/index.html"
+        "url": "studyguide/v6/index.html",
+        "desc": "The ultimate platformer challenge for Vex fans."
     },
     {
         "name": "WebRetro",
         "img": "assets/icons/75.jpg",
-        "url": "studyguide/wr/index.html"
+        "url": "studyguide/wr/index.html",
+        "desc": "Relive classic retro games on the web."
+    },
+    {
+        "name": "Temple Run 2",
+        "img": "assets/icons/30.png",
+        "url": "studyguide/tempr2/index.html",
+        "desc": "Escape danger in this fast-paced endless runner."
+    },
+    {
+        "name": "Tube Jumpers",
+        "img": "assets/icons/54.png",
+        "url": "studyguide/t-j/index.html",
+        "desc": "Battle friends in a wacky, physics-based jumping game."
+    },
+    {
+        "name": "Tunnel Rush",
+        "img": "assets/icons/32.png",
+        "url": "studyguide/tunru/index.html",
+        "desc": "Dodge obstacles in a fast-paced 3D tunnel."
+    },
+    {
+        "name": "Vex 3",
+        "img": "assets/icons/71.jpg",
+        "url": "studyguide/v3/index.html",
+        "desc": "Run, jump, and dodge traps in challenging platform levels."
+    },
+    {
+        "name": "Vex 4",
+        "img": "assets/icons/72.png",
+        "url": "studyguide/v4/index.html",
+        "desc": "More intense challenges in the Vex platformer series."
+    },
+    {
+        "name": "Vex 5",
+        "img": "assets/icons/73.jpg",
+        "url": "studyguide/v5/index.html",
+        "desc": "Conquer tougher levels with new obstacles and tricks."
+    },
+    {
+        "name": "Vex 6",
+        "img": "assets/icons/74.jpg",
+        "url": "studyguide/v6/index.html",
+        "desc": "The ultimate platformer challenge for Vex fans."
+    },
+    {
+        "name": "WebRetro",
+        "img": "assets/icons/75.jpg",
+        "url": "studyguide/wr/index.html",
+        "desc": "Relive classic retro games on the web."
     },
     {
         "name": "Snow Rider 3D",
         "img": "assets/icons/79.png",
-        "url": "studyguide/sr3d/index.html"
+        "url": "studyguide/sr3d/index.html",
+        "desc": "Snowboard through stunning landscapes in this endless game."
     },
     {
         "name": "Neverball",
         "img": "assets/icons/80.png",
-        "url": "studyguide/nb/index.html"
+        "url": "studyguide/nb/index.html",
+        "desc": "Tilt and roll your way to victory in this physics game."
     },
     {
         "name": "PolyTrack",
         "img": "assets/icons/81.png",
-        "url": "studyguide/pt/index.html"
+        "url": "studyguide/pt/index.html",
+        "desc": "Navigate complex tracks in this futuristic racer."
     },
     {
         "name": "Tennis Physics",
         "img": "assets/icons/82.jpg",
-        "url": "studyguide/tp/index.html"
+        "url": "studyguide/tp/index.html",
+        "desc": "Enjoy quirky tennis matches with physics-based gameplay."
     },
     {
         "name": "Tap Tap Shots",
         "img": "assets/icons/83.jpg",
-        "url": "studyguide/tts/index.html"
+        "url": "studyguide/tts/index.html",
+        "desc": "Score baskets with perfect timing and taps."
     },
     {
         "name": "Car Stunt King",
         "img": "assets/icons/84.jpg",
-        "url": "studyguide/csk/index.html"
+        "url": "studyguide/csk/index.html",
+        "desc": "Perform jaw-dropping car stunts in this action-packed game."
     },
     {
         "name": "Spacebar Clicker",
         "img": "assets/icons/85.png",
-        "url": "studyguide/sp-c/index.html"
+        "url": "studyguide/sp-c/index.html",
+        "desc": "How fast can you click the spacebar? Test your speed!"
     },
     {
         "name": "Eggy Car",
         "img": "assets/icons/86.png",
-        "url": "studyguide/e-c/index.html"
+        "url": "studyguide/e-c/index.html",
+        "desc": "Drive carefully to keep the egg from cracking!"
     },
     {
         "name": "Getting Over It",
         "img": "assets/icons/87.jpg",
-        "url": "studyguide/goi/index.html"
+        "url": "studyguide/goi/index.html",
+        "desc": "Overcome steep challenges in this physics-based climbing game."
     },
     {
         "name": "Drift Boss",
         "img": "assets/icons/88.jpg",
-        "url": "studyguide/d-b/index.html"
+        "url": "studyguide/d-b/index.html",
+        "desc": "Master the art of drifting in this endless driving game."
     },
     {
         "name": "RoBeats",
         "img": "assets/icons/89.jpg",
-        "url": "studyguide/rbe/index.html"
+        "url": "studyguide/rbe/index.html",
+        "desc": "Groove to the beat in this rhythm-based multiplayer game."
     },
     {
         "name": "PolyRhythm",
         "img": "assets/icons/90.png",
-        "url": "studyguide/pr/index.html"
+        "url": "studyguide/pr/index.html",
+        "desc": "Challenge your musical timing with rhythm-based puzzles."
     },
     {
         "name": "Fancy Pants Adventures 2",
         "img": "assets/icons/91.png",
-        "url": "studyguide/fpa-2/index.html"
+        "url": "studyguide/fpa-2/index.html",
+        "desc": "Run, jump, and slide through whimsical platforming levels."
     },
     {
         "name": "QWOP",
         "img": "assets/icons/92.jpg",
-        "url": "studyguide/qp/index.html"
+        "url": "studyguide/qp/index.html",
+        "desc": "Control each leg and stumble to the finish line!"
     },
     {
         "name": "Bad Piggies",
         "img": "assets/icons/93.jpg",
-        "url": "studyguide/b-p/index.html"
+        "url": "studyguide/b-p/index.html",
+        "desc": "Design contraptions to help the pigs collect eggs."
     },
     {
         "name": "JustFall.LoL",
         "img": "assets/icons/94.jpg",
-        "url": "studyguide/jf/index.html"
+        "url": "studyguide/jf/index.html",
+        "desc": "Compete in a battle royale with quirky penguins."
     },
     {
         "name": "Super Liquid Soccer",
         "img": "assets/icons/95.png",
-        "url": "studyguide/sls/index.html"
+        "url": "studyguide/sls/index.html",
+        "desc": "Score goals in this dynamic, fluid soccer game."
     },
     {
         "name": "Dadish 2",
         "img": "assets/icons/96.jpg",
-        "url": "studyguide/d2/index.html"
+        "url": "studyguide/d2/index.html",
+        "desc": "Help a radish dad rescue his kids in this sequel."
     },
     {
-        "name": "Friday night funking",
+        "name": "Friday Night Funkin'",
         "img": "assets/icons/97.png",
-        "url": "studyguide/ff/index.html"
+        "url": "studyguide/ff/index.html",
+        "desc": "Groove to the beat in this popular rhythm game."
     },
     {
-        "name": "SandBoxels(not working)",
+        "name": "SandBoxels (not working)",
         "img": "assets/icons/98.jpg",
-        "url": "studyguide/sb/index.html"
+        "url": "studyguide/sb/index.html",
+        "desc": "Create and explore in this sandbox game."
     },
     {
-        "name": "Splunkey",
+        "name": "Spelunky",
         "img": "assets/icons/99.jpg",
-        "url": "studyguide/sp/index.html"
+        "url": "studyguide/sp/index.html",
+        "desc": "Explore caves, collect treasure, and dodge traps."
     },
     {
-        "name": "Samurai rabbit 1",
+        "name": "Samurai Rabbit 1",
         "img": "assets/icons/100.jpg",
-        "url": "studyguide/sr-1/index.html"
+        "url": "studyguide/sr-1/index.html",
+        "desc": "Embark on an epic adventure with a samurai rabbit."
     },
     {
-        "name": "Samurai rabbit 2",
+        "name": "Samurai Rabbit 2",
         "img": "assets/icons/101.jpg",
-        "url": "studyguide/sr-2/index.html"
+        "url": "studyguide/sr-2/index.html",
+        "desc": "Continue the thrilling journey of the samurai rabbit."
     },
     {
-        "name": "roof top snipers 2",
+        "name": "Rooftop Snipers 2",
         "img": "assets/icons/102.jpg",
-        "url": "studyguide/rts-2/index.html"
+        "url": "studyguide/rts-2/index.html",
+        "desc": "Challenge your friends in intense rooftop duels."
     },
     {
-        "name": "borrito bison lancha libre",
+        "name": "Burrito Bison: Launcha Libre",
         "img": "assets/icons/103.jpg",
-        "url": "studyguide/bb-ll/index.html"
+        "url": "studyguide/bb-ll/index.html",
+        "desc": "Launch Burrito Bison to stop an evil gummy invasion."
     },
     {
-        "name": "borrito bison revenge",
+        "name": "Burrito Bison Revenge",
         "img": "assets/icons/104.webp",
-        "url": "studyguide/bb-r/index.html"
+        "url": "studyguide/bb-r/index.html",
+        "desc": "Bounce back and fight off gummy bears in style."
     },
     {
-        "name": "Grind Craft",
+        "name": "GrindCraft",
         "img": "assets/icons/106.jpg",
-        "url": "studyguide/gc/index.html"
+        "url": "studyguide/gc/index.html",
+        "desc": "Craft and grind resources to expand your empire."
     },
     {
-        "name": "monkey mart",
+        "name": "Monkey Mart",
         "img": "assets/icons/107.jpg",
-        "url": "studyguide/mm/index.html"
+        "url": "studyguide/mm/index.html",
+        "desc": "Run your own quirky monkey market and expand it."
     },
     {
-        "name": "Blumgi slime",
+        "name": "Blumgi Slime",
         "img": "assets/icons/108.webp",
-        "url": "studyguide/b-s/index.html"
+        "url": "studyguide/b-s/index.html",
+        "desc": "Bounce your slime to victory in tricky levels."
     },
     {
         "name": "Moto X3M 2",
         "img": "assets/icons/111.jpg",
-        "url": "studyguide/mx3m-2/index.html"
+        "url": "studyguide/mx3m-2/index.html",
+        "desc": "New challenges and stunts await in this sequel."
     },
     {
-        "name": "Moto X3M Spooky land",
+        "name": "Moto X3M Spooky Land",
         "img": "assets/icons/113.png",
-        "url": "studyguide/mx3m-s/index.html"
+        "url": "studyguide/mx3m-s/index.html",
+        "desc": "Experience haunting tracks and eerie stunts."
     },
     {
-        "name": "Moto X3M Pool party ",
+        "name": "Moto X3M Pool Party",
         "img": "assets/icons/112.jpg",
-        "url": "studyguide/mx3m-p/index.html"
+        "url": "studyguide/mx3m-p/index.html",
+        "desc": "Splash into thrilling motorbike stunts at the pool."
     },
     {
         "name": "Wordle Unlimited",
         "img": "assets/icons/109.png",
-        "url": "studyguide/w-u/index.html"
+        "url": "studyguide/w-u/index.html",
+        "desc": "Guess words and challenge your vocabulary skills."
     },
     {
-        "name": "Parking fury",
+        "name": "Parking Fury",
         "img": "assets/icons/114.jpg",
-        "url": "studyguide/pf1/index.html"
+        "url": "studyguide/pf1/index.html",
+        "desc": "Test your parking skills with tricky levels."
     },
     {
-        "name": "Parking fury 2",
+        "name": "Parking Fury 2",
         "img": "assets/icons/115.jpg",
-        "url": "studyguide/pf2/index.html"
+        "url": "studyguide/pf2/index.html",
+        "desc": "New challenges await in this parking simulator sequel."
     },
     {
-        "name": "Parking fury 3",
+        "name": "Parking Fury 3",
         "img": "assets/icons/116.jpg",
-        "url": "studyguide/pf3/index.html"
+        "url": "studyguide/pf3/index.html",
+        "desc": "Master even tougher parking challenges."
     },
     {
-        "name": "Gun mayhem REDUX",
+        "name": "Gun Mayhem Redux",
         "img": "assets/icons/117.png",
-        "url": "studyguide/gmr/index.html"
+        "url": "studyguide/gmr/index.html",
+        "desc": "Shoot, jump, and dominate your opponents in chaos."
     },
     {
         "name": "Tag",
         "img": "assets/icons/118.webp",
-        "url": "studyguide/t/index.html"
+        "url": "studyguide/t/index.html",
+        "desc": "Play an exciting game of virtual tag with friends."
     },
     {
-        "name": "Fruit ninja",
+        "name": "Fruit Ninja",
         "img": "assets/icons/120.png",
-        "url": "studyguide/fn/index.html"
+        "url": "studyguide/fn/index.html",
+        "desc": "Slice fruits and avoid bombs in this arcade hit."
     },
     {
         "name": "Iron Snout",
         "img": "assets/icons/119.jpg",
-        "url": "studyguide/is/index.html"
+        "url": "studyguide/is/index.html",
+        "desc": "Fight off wolves as a martial artist pig."
     },
     {
-        "name": "Blumgi rocket",
+        "name": "Blumgi Rocket",
         "img": "assets/icons/122.jpg",
-        "url": "studyguide/b-r/index.html"
+        "url": "studyguide/b-r/index.html",
+        "desc": "Blast through levels with a rocket-powered vehicle."
     },
     {
         "name": "Dadish 3",
         "img": "assets/icons/123.jpg",
-        "url": "studyguide/d3/index.html"
+        "url": "studyguide/d3/index.html",
+        "desc": "Embark on another veggie-saving adventure with Dadish."
     },
     {
         "name": "Osu!",
         "img": "assets/icons/124.jpeg",
-        "url": "studyguide/w-o/index.html"
+        "url": "studyguide/w-o/index.html",
+        "desc": "Hit the beat in this fast-paced rhythm game."
     },
     {
-        "name": "10 minutes before dawn",
+        "name": "10 Minutes Before Dawn",
         "img": "assets/icons/125.png",
-        "url": "studyguide/10mbd/index.html"
+        "url": "studyguide/10mbd/index.html",
+        "desc": "Survive waves of enemies before dawn arrives."
     },
     {
         "name": "Drift Hunters",
         "img": "assets/icons/126.avif",
-        "url": "studyguide/db-c/index.html"
+        "url": "studyguide/db-c/index.html",
+        "desc": "Master drifting techniques in this driving simulator."
     },
     {
-        "name": "Factory balls",
+        "name": "Factory Balls",
         "img": "assets/icons/128.png",
-        "url": "studyguide/fb/index.html"
-    },  
+        "url": "studyguide/fb/index.html",
+        "desc": "Solve puzzles to create custom balls in a factory."
+    },
     {
-        "name": "Edge not found",
+        "name": "Edge Not Found",
         "img": "assets/icons/129.jpg",
-        "url": "studyguide/enf/index.html"
+        "url": "studyguide/enf/index.html",
+        "desc": "Test your platforming skills in this unique game."
     },
     {
         "name": "Pandemic 2",
         "img": "assets/icons/130.avif",
-        "url": "studyguide/p2/index.html"
+        "url": "studyguide/p2/index.html",
+        "desc": "Strategize to spread your disease and dominate the globe."
     },
     {
-        "name": "Papery planes",
+        "name": "Papery Planes",
         "img": "assets/icons/131.png",
-        "url": "studyguide/paper-planes/index.html"
+        "url": "studyguide/paper-planes/index.html",
+        "desc": "Fly paper planes through relaxing, colorful skies."
     },
     {
-        "name": "Big tower tiny cube",
+        "name": "Big Tower Tiny Cube",
         "img": "assets/icons/132.png",
-        "url": "studyguide/bttc/index.html"
+        "url": "studyguide/bttc/index.html",
+        "desc": "Climb a big tower as a tiny cube in this platformer."
     },
     {
-        "name": "Bitlife",
+        "name": "BitLife",
         "img": "assets/icons/133.jpg",
-        "url": "studyguide/btlf/index.html"
+        "url": "studyguide/btlf/index.html",
+        "desc": "Live out a simulated life with endless choices."
     },
     {
-        "name": "Pizza tower",
+        "name": "Pizza Tower",
         "img": "assets/icons/134.jpg",
-        "url": "studyguide/pizza/index.html"
+        "url": "studyguide/pizza/index.html",
+        "desc": "Deliver pizzas in this quirky, high-energy platformer."
     },
     {
-        "name": "Bottle flip",
+        "name": "Bottle Flip",
         "img": "assets/icons/135.png",
-        "url": "studyguide/b-f/index.html"
+        "url": "studyguide/b-f/index.html",
+        "desc": "Land perfect flips with this simple yet addictive game."
     },
     {
-        "name": "Tower crush 3D",
+        "name": "Tower Crush 3D",
         "img": "assets/icons/136.png",
-        "url": "studyguide/tc3d/index.html"
+        "url": "studyguide/tc3d/index.html",
+        "desc": "Build and destroy towers in 3D battles."
     },
     {
-        "name": "Tiny fishing",
+        "name": "Tiny Fishing",
         "img": "assets/icons/137.jpg",
-        "url": "studyguide/tf/index.html"
+        "url": "studyguide/tf/index.html",
+        "desc": "Catch fish and upgrade your gear in this casual game."
     },
     {
-        "name": "Blumgi swingo",
+        "name": "Blumgi Swingo",
         "img": "assets/icons/138.jpg",
-        "url": "studyguide/swg/index.html"
+        "url": "studyguide/swg/index.html",
+        "desc": "Swing through levels and conquer tricky obstacles."
     },
     {
-        "name": "8 Ball pool",
+        "name": "8 Ball Pool",
         "img": "assets/icons/139.png",
-        "url": "studyguide/8bp/index.html"
+        "url": "studyguide/8bp/index.html",
+        "desc": "Play classic pool against players worldwide."
     },
     {
         "name": "Gobdun",
         "img": "assets/icons/140.png",
-        "url": "studyguide/gbdn/index.html"
+        "url": "studyguide/gbdn/index.html",
+        "desc": "Explore dungeons and conquer foes in this adventure."
     },
     {
-        "name": "Interactive buddy",
+        "name": "Interactive Buddy",
         "img": "assets/icons/141.jpg",
-        "url": "studyguide/ib/index.html"
-    },
+        "url": "studyguide/ib/index.html",
+        "desc": "Interact with and customize your buddy in fun ways."
+    }, 
     {
-        "name": "Learn to fly 1",
+        "name": "Learn to Fly 1",
         "img": "assets/icons/142.png",
-        "url": "studyguide/l2f1/index.html"
+        "url": "studyguide/l2f1/index.html",
+        "desc": "Help a determined penguin master the art of flight."
     },
     {
-        "name": "ace blackjack",
+        "name": "Ace Blackjack",
         "img": "assets/icons/143.png",
-        "url": "studyguide/bj-p/index.html"
+        "url": "studyguide/bj-p/index.html",
+        "desc": "Test your luck and skill in this classic card game."
     }
 ]
