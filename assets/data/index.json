@@ -468,48 +468,6 @@
         "desc": "Escape danger in this fast-paced endless runner."
     },
     {
-        "name": "Tube Jumpers",
-        "img": "assets/icons/54.png",
-        "url": "studyguide/t-j/index.html",
-        "desc": "Battle friends in a wacky, physics-based jumping game."
-    },
-    {
-        "name": "Tunnel Rush",
-        "img": "assets/icons/32.png",
-        "url": "studyguide/tunru/index.html",
-        "desc": "Dodge obstacles in a fast-paced 3D tunnel."
-    },
-    {
-        "name": "Vex 3",
-        "img": "assets/icons/71.jpg",
-        "url": "studyguide/v3/index.html",
-        "desc": "Run, jump, and dodge traps in challenging platform levels."
-    },
-    {
-        "name": "Vex 4",
-        "img": "assets/icons/72.png",
-        "url": "studyguide/v4/index.html",
-        "desc": "More intense challenges in the Vex platformer series."
-    },
-    {
-        "name": "Vex 5",
-        "img": "assets/icons/73.jpg",
-        "url": "studyguide/v5/index.html",
-        "desc": "Conquer tougher levels with new obstacles and tricks."
-    },
-    {
-        "name": "Vex 6",
-        "img": "assets/icons/74.jpg",
-        "url": "studyguide/v6/index.html",
-        "desc": "The ultimate platformer challenge for Vex fans."
-    },
-    {
-        "name": "WebRetro",
-        "img": "assets/icons/75.jpg",
-        "url": "studyguide/wr/index.html",
-        "desc": "Relive classic retro games on the web."
-    },
-    {
         "name": "Snow Rider 3D",
         "img": "assets/icons/79.png",
         "url": "studyguide/sr3d/index.html",
