@@ -1,0 +1,4 @@
+
+[submodule "studyguide"]
+	path = studyguide
+	url = https://github.com/JustStudy-CE/studyguide

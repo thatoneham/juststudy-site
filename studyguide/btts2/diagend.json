@@ -1,0 +1,130 @@
+{
+    "c2array": true,
+    "size": [
+        6,
+        6,
+        1
+    ],
+    "data": [
+        [
+            [
+                "You sliced Pineapple: "
+            ],
+            [
+                "You dropped Big Square: "
+            ],
+            [
+                "Fails: "
+            ],
+            [
+                "Thanks for playing! Tap and hold to restart."
+            ],
+            [
+                "Thanks for playing! Tap and hold to restart."
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Has cortado piña:"
+            ],
+            [
+                "Has matado a Big Square: "
+            ],
+            [
+                "Muertes: "
+            ],
+            [
+                "¡Gracias por jugar! Toca y mantén pulsado para reiniciar."
+            ],
+            [
+                "Gracias por jugar. Toca y mantén pulsado para reiniciar."
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "パインをスライスしましたね。 "
+            ],
+            [
+                "あなたはビッグ・スクエアを落としました。 "
+            ],
+            [
+                "死亡しました。 "
+            ],
+            [
+                "プレイしていただきありがとうございました。タップ＆ホールドで再スタート"
+            ],
+            [
+                "プレイしてくれてありがとう タップ＆ホールドでリスタート"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ]
+    ]
+}

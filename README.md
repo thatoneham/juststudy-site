@@ -1,5 +1,3 @@
-# MOVED TO CODEBERG: https://codeberg.org/metalfoxdev/juststudy-site
-
 <p align="center">
 	<img width="360" height="360" src="assets/img/icon_fullsize.png">
 </p>
@@ -27,6 +25,7 @@
 * ↘️ Easy to deploy (though it does take a long time)
 * 🖥️💻📱 Cross-platform UI
 
-## Motivation
-
-I made this website because I wanted a really simple game site where you can just play games and nothing else really.
+## Principles
+* Simplicity, no unnecessary gimmicks. Only useful stuff.
+* Usability, no bloated and laggy UI additions. Just clean and easy UI/UX.
+* Easy maintenance, no features that will be a nightmare to maintain in spare time.

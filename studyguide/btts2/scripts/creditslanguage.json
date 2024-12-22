@@ -1,0 +1,215 @@
+{
+    "c2array": true,
+    "size": [
+        5,
+        13,
+        1
+    ],
+    "data": [
+        [
+            [
+                "HOLD BUTTON TO ERASE CURRENT DATA"
+            ],
+            [
+                "Rescue Time: "
+            ],
+            [
+                "Revenge Time: \n "
+            ],
+            [
+                "Fails: "
+            ],
+            [
+                "Cherries: "
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "Current Time: "
+            ],
+            [
+                "PRESS Y TO ERASE CURRENT DATA"
+            ],
+            [
+                "TOUCH AND HOLD TO RESET DATA"
+            ]
+        ],
+        [
+            [
+                "PULSE RETROCESO PARA BORRAR LOS DATOS ACTUALES"
+            ],
+            [
+                "Tiempo de rescate: "
+            ],
+            [
+                "Tiempo de venganza: "
+            ],
+            [
+                "Muertes: "
+            ],
+            [
+                "Cerezas: "
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "Hora actual: "
+            ],
+            [
+                "PULSE Y PARA BORRAR LOS DATOS ACTUALES"
+            ],
+            [
+                "MANTENGA PULSADO PARA RESTABLECER LOS DATOS"
+            ]
+        ],
+        [
+            [
+                "バックスペースを押すと現在のデータが消去されます"
+            ],
+            [
+                "レスキュー・タイム "
+            ],
+            [
+                "リベンジタイム "
+            ],
+            [
+                "死亡数 "
+            ],
+            [
+                "チェリー "
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "現在の時刻 "
+            ],
+            [
+                "を押して現在のデータを消去"
+            ],
+            [
+                "タッチ＆ホールドでデータをリセット"
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ]
+    ]
+}

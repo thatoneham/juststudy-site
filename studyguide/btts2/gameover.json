@@ -1,0 +1,35 @@
+{
+    "c2array": true,
+    "size": [
+        5,
+        1,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Oh no you ran out of lives! Purchase unlimited lives to continue, or click restart to begin again at the start of the game."
+            ]
+        ],
+        [
+            [
+                "Oh no, ¡te has quedado sin vidas! Compra vidas ilimitadas para continuar, o haz clic en reiniciar para empezar de nuevo al principio del juego."
+            ]
+        ],
+        [
+            [
+                "ライフが足りなくなってしまった！？無制限のライフを購入してゲームを続けるか、「リスタート」をクリックしてゲームの最初からやり直してください。"
+            ]
+        ],
+        [
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                ""
+            ]
+        ]
+    ]
+}
